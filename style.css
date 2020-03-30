@@ -1,6 +1,9 @@
 .border{
     height: 500px;
     width: 350px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid;
 }
 
 .border .header{
